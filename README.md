@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 😄
+Wow, i did'nt know that we could add a profile description here. To do so, simply create a repository <your-username> and add a readme.
 <!--
 **CatAhri/CatAHri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
