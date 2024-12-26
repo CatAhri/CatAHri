@@ -1,11 +1,14 @@
-### Hi there 😄
+<h1 align="center">Hi 👋, I'm CatAhri 😄</h1>
+
 Wow, I didn't know that we could add a profile description here. To do so, simply create a repository named "your-username" and add a readme.
 
+# 📊 GitHub Stats
 Here are some stats for my profile, not that accurate since most of my repo are private, anyways :
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatAhri&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CatAhri&theme=transparent)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CatAhri)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=CatAhri&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **CatAhri/CatAHri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
